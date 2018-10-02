@@ -1,0 +1,11 @@
+{
+  "name": "website-using-express",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "express": "latest"
+  }
+}
